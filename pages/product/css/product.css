@@ -314,3 +314,11 @@ a {
     color: #0FAE96;
     cursor: pointer;
 }
+
+.footer-text {
+    text-align: center;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    color: #d4d4d4;
+}
